@@ -1,7 +1,8 @@
-name: null
+name: Prueba
 favicon: null
 layout_spectrum: 0.26662127836607397
 typography_spectrum: 0.07701419969089329
+title: Título
 cta:
   domain: null
   bucket: null
