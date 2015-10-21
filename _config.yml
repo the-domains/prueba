@@ -1,6 +1,6 @@
 name: Prueba
 favicon: null
-layout_spectrum: 0.26662127836607397
+layout_spectrum: 0.45118
 typography_spectrum: 0.07701419969089329
 title: Título
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.9498121696524322
+  brandStrength: 0.375
   lightness: 0.6622196359094232
   saturation: 0.32596093649044633
   rhythmicContrast: 0.9848116545472294
